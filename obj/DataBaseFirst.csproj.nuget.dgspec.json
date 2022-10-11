@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\.net\\DataBaseFirst\\DataBaseFirst.csproj": {}
+    "C:\\Users\\Faxriddin\\Source\\Repos\\.net-base\\DataBaseFirst.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\.net\\DataBaseFirst\\DataBaseFirst.csproj": {
+    "C:\\Users\\Faxriddin\\Source\\Repos\\.net-base\\DataBaseFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\.net\\DataBaseFirst\\DataBaseFirst.csproj",
+        "projectUniqueName": "C:\\Users\\Faxriddin\\Source\\Repos\\.net-base\\DataBaseFirst.csproj",
         "projectName": "DataBaseFirst",
-        "projectPath": "C:\\Users\\User\\Desktop\\.net\\DataBaseFirst\\DataBaseFirst.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\.net\\DataBaseFirst\\obj\\",
+        "projectPath": "C:\\Users\\Faxriddin\\Source\\Repos\\.net-base\\DataBaseFirst.csproj",
+        "packagesPath": "C:\\Users\\Faxriddin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Faxriddin\\Source\\Repos\\.net-base\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Faxriddin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
